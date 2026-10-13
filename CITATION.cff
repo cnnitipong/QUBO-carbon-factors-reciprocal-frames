@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+title: "QUBO-carbon-factors-reciprocal-frames: multi-material carbon, energy and stiffness sizing of reciprocal frames by stress-gated QUBO"
+authors:
+  - family-names: Praphaphankul
+    given-names: Nitipong
+    affiliation: Center of Excellence in Social Design, Faculty of Architecture, Chulalongkorn University
+    email: nitipong.pr@chula.ac.th
+version: 1.0.0
+date-released: 2026-10-13
+url: https://github.com/cnnitipong/QUBO-carbon-factors-reciprocal-frames
+license: MIT
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Praphaphankul
+      given-names: Nitipong
+  title: "Carbon, energy and stiffness trade-offs in multi-material reciprocal frames: a stress-gated QUBO formulation with constructability coupling"
+  journal: Engineering Structures
+  year: 2026
+  notes: under review
